@@ -15,7 +15,6 @@ A modern, high-fidelity developer dashboard that analyzes GitHub repository heal
 
 The platform is designed with a decoupled multi-tier architecture to ensure clear separation of concerns, easy scalability, and absolute fault tolerance.
 
-```mermaid
 graph TD
     subgraph Client [React SPA Client (Vite)]
         UI[Peach-Coral Dashboard]
