@@ -9,6 +9,8 @@
 
 A modern, high-fidelity developer dashboard that analyzes GitHub repository health, commit frequencies, code churn, and team collaboration. Featuring a premium **Peach-Coral Pastel** user interface, responsive handcrafted SVG data visualizations, Firebase Auth integrations, and automated Google Gemini AI repository audits.
 
+https://github.com/user-attachments/assets/4803dc5e-62f8-4528-9160-3f023b883fad
+
 ---
 
 ## 🏗️ System Architecture
